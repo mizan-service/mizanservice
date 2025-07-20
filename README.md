@@ -2,7 +2,7 @@
 <html lang="fa" dir="rtl">
 <head>
   <meta charset="UTF-8">
-  <title>تعمیر‌یار | خدمات تعمیرات لوازم خانگی</title>
+  <title>میزان سرویس | خدمات تعمیرات لوازم خانگی</title>
   <link rel="icon" href="https://s6.uupload.ir/files/img_20250720_115509_704_47er.jpg">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
